@@ -4,10 +4,15 @@ You can use the [editor on GitHub](https://github.com/akeelrehman/akeelrehman.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Intro
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Associate Architect at Thomson Reuters Legal - Australia & New Zealand
+```
+
+### Industries
 ```markdown
 Syntax highlighted code block
 
