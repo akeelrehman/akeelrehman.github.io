@@ -6,12 +6,17 @@
 Associate Architect at Thomson Reuters Legal - Australia & New Zealand
 ```
 
+[Projects](./projects.md)
+
 ### Industries
+
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
